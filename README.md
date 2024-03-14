@@ -1,5 +1,5 @@
-### Hi there 👋
-*
+* 👋 Hi, I'm Tom Chen
+* 🌱 I’m currently learning
 
 <!--
 **LEEKN/LEEKN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
