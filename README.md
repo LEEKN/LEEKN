@@ -1,6 +1,6 @@
 * 👋 Hi, I'm Tom Chen
 * 🌱 I’m currently learning Deep Learning
-* 📫 Contact me via email:chenyanyou168@gmail.com
+* 📫 Contact me via email: chenyanyou168@gmail.com
 
 <!--
 **LEEKN/LEEKN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
